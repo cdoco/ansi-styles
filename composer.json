@@ -1,6 +1,28 @@
 {
     "name": "cdoco/ansi-styles",
     "description": "ANSI escape codes for styling strings in the terminal",
+    "keywords": [
+        "ansi",
+        "styles",
+        "color",
+        "colour",
+        "colors",
+        "terminal",
+        "console",
+        "cli",
+        "string",
+        "tty",
+        "escape",
+        "formatting",
+        "rgb",
+        "256",
+        "shell",
+        "xterm",
+        "log",
+        "logging",
+        "command-line",
+        "text"
+    ],
     "minimum-stability": "stable",
     "authors": [{
         "name": "ZiHang Gao",
